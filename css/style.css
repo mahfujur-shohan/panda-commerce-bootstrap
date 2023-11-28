@@ -1,0 +1,28 @@
+.btn-style {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+.orange-bg {
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.margin-bottom {
+    margin-bottom: 100px;
+}
+.watch {
+    background-color: #ffc107;
+}
+.bag {
+    background-color: #ce71db;
+}
+.shoe {
+    background-color: #103ff2;
+}
+.categories img {
+    width: 100px;
+    height: 100px;
+}
